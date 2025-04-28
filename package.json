@@ -1,5 +1,5 @@
 {
-  "homepage": "https://harshini.github.io/Luck-game-webapp",
+  "homepage": "https://harshini.github.io/Lucky-game-webapp",  // Correct if you are hosting on this URL
   "name": "lucky",
   "version": "0.1.0",
   "private": true,
@@ -8,8 +8,8 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^18.0.0",  // React version 18 is correct
+    "react-dom": "^18.0.0",  // React-dom version 18 is correct
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -17,8 +17,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",  // Correct, builds before deploying
+    "deploy": "gh-pages -d build",  // Correct, deploys to gh-pages
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0"  // Correct version for gh-pages
   }
 }
