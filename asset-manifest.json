@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Luck-game-webapp/static/css/main.0aaa9b78.css",
+    "main.js": "/Luck-game-webapp/static/js/main.5c4351a4.js",
+    "static/js/453.4d561b1a.chunk.js": "/Luck-game-webapp/static/js/453.4d561b1a.chunk.js",
+    "index.html": "/Luck-game-webapp/index.html",
+    "main.0aaa9b78.css.map": "/Luck-game-webapp/static/css/main.0aaa9b78.css.map",
+    "main.5c4351a4.js.map": "/Luck-game-webapp/static/js/main.5c4351a4.js.map",
+    "453.4d561b1a.chunk.js.map": "/Luck-game-webapp/static/js/453.4d561b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aaa9b78.css",
+    "static/js/main.5c4351a4.js"
+  ]
+}
